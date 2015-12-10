@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2015-01-04T00:00:00+08:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>擁抱市場的改變，現在企業該怎樣玩？</title>
+    <link rel="alternate" href="http://blog.url.com/hk/2015/01/04/draft/"/>
+    <id>http://blog.url.com/hk/2015/01/04/draft/</id>
+    <published>2015-01-04T00:00:00+08:00</published>
+    <updated>2015-07-23T23:46:57+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;good enough
+方法&lt;/p&gt;
+
+&lt;p&gt;想像力和創造力，更需要的是慎密的邏輯和批評性思維，絕非憑空想像，想到點子只是一個很初步&lt;/p&gt;
+
+&lt;p&gt;炮妞，逆位思考&lt;/p&gt;
+
+&lt;p&gt;http://www.hksilicon.com/kb/articles/129428/Design-Thinking&lt;/p&gt;
+
+&lt;p&gt;''&lt;/p&gt;
+
+&lt;p&gt;我相對比較廣闊的知識範疇，和經驗積累，其實也是
+多方面的&lt;/p&gt;
+
+&lt;p&gt;一直以來設計的&lt;/p&gt;
+
+&lt;p&gt;背後有一套設計看成&lt;/p&gt;
+
+&lt;p&gt;理論和&lt;/p&gt;
+
+&lt;p&gt;「設計思維」的過程結集了發散性思維(divergent thinking)和收斂性思維(convergent thinking)。前者使用頭腦風暴(brainstorming)的技巧，蘊育創意，有助形成不同的設計模式。後者用作分析評估各方案的利弊，幫助聚焦、整合和篩選。&lt;/p&gt;
+
+&lt;p&gt;怎樣做的…&lt;/p&gt;
+
+&lt;p&gt;或者就讓我說說我在這專業內，&lt;/p&gt;
+
+&lt;p&gt;difference between product manager&lt;/p&gt;
+
+&lt;p&gt;visualize priroitize quant&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;research&lt;/li&gt;
+  &lt;li&gt;interview&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;persona  empathy&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;customer journey map &amp;gt; pain point &amp;gt; moment of truth&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;[persona]&lt;/p&gt;
+
+&lt;p&gt;[customer journey map]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;save time&lt;/li&gt;
+  &lt;li&gt;lesson touchpoint&lt;/li&gt;
+  &lt;li&gt;reduce "pain"&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;電影&lt;/p&gt;
+
+&lt;p&gt;==&amp;gt; inception&lt;/p&gt;
+
+&lt;p&gt;design thinking
+lean + UX&lt;/p&gt;
+
+&lt;p&gt;學會所有方法…頂多只能說是個facilitator而已&lt;/p&gt;
+
+&lt;p&gt;skillset?
+[ roles ]
+[ relationship with product manager &amp;amp; front-end]
+[ skillsets matrix]&lt;/p&gt;
+
+&lt;p&gt;steve jobs&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;design thinking
+    &lt;ul&gt;
+      &lt;li&gt;system 為本&lt;/li&gt;
+      &lt;li&gt;matching people’s needs with what is technologically feasible and viable as a business strategy&lt;/li&gt;
+      &lt;li&gt;learn from people&lt;/li&gt;
+      &lt;li&gt;find patterns&lt;/li&gt;
+      &lt;li&gt;design principle&lt;/li&gt;
+      &lt;li&gt;Make tangible&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;iterate rentlessly&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;define&lt;/li&gt;
+      &lt;li&gt;research&lt;/li&gt;
+      &lt;li&gt;ideate&lt;/li&gt;
+      &lt;li&gt;prototype&lt;/li&gt;
+      &lt;li&gt;choose&lt;/li&gt;
+      &lt;li&gt;implement&lt;/li&gt;
+      &lt;li&gt;learn&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;一個問題，解決方法&lt;/p&gt;
+
+&lt;p&gt;有意義?
+查案
+一條線
+接觸不同
+想法&lt;/p&gt;
+
+&lt;p&gt;同時間，我也發現國內普遍有一個現象，就是很多時候我們都希望能盡快定調，喜歡總結，也很容易滿足於把問題找到方法便可，這些因教育或社會而成的特質，其實更容易讓我們只能於框架內思考事情。沒錯，企業的執行力是很重要，但要是舵手沒有思考自己可有的策略（可參考之前我寫的《&lt;a href="http://stillnaughty.com/2014/08/01/strategy-how"&gt;顛覆市場的意志&lt;/a&gt;》一文），也沒有好好思考所要解決的問題的真正本質，和思考更好的方法的，在一個需要跟別人競爭的市場內，可能一開始就註定輸了。&lt;/p&gt;
+
+&lt;p&gt;有好好理解問題，自己也犯過同樣錯語&lt;/p&gt;
+
+&lt;p&gt;，當我們沒有
+。&lt;/p&gt;
+
+&lt;p&gt;或許，真的要是我們希望能做出劃時代的東西&lt;/p&gt;
+
+&lt;p&gt;其實，創造不等同創新，以這個心態做出來的東西，可能更不能夠經過時代洪流的沖擊。&lt;/p&gt;
+
+&lt;p&gt;或許引用一句愛因思&lt;/p&gt;
+
+&lt;p&gt;該更多的去&lt;/p&gt;
+
+&lt;p&gt;在現今的世界，著實說，只能跟&lt;/p&gt;
+
+&lt;p&gt;===============================&lt;/p&gt;
+
+&lt;p&gt;的而且確，美是一個主觀的感受，&lt;/p&gt;
+
+&lt;p&gt;很多人覺得美是一種主觀的東西，的而且確，美是一個主觀的感受，&lt;/p&gt;
+
+&lt;p&gt;但其實可能更多的，我&lt;/p&gt;
+
+&lt;p&gt;我為什麼更喜歡上設計，&lt;/p&gt;
+
+&lt;p&gt;我們看到的所謂創新，其實沒有創新多少，因為心態&lt;/p&gt;
+
+&lt;p&gt;因此，為什麼我們會缺乏創新，&lt;/p&gt;
+
+&lt;p&gt;要是太滿足於一個答案，&lt;/p&gt;
+
+&lt;p&gt;真理，&lt;/p&gt;
+
+&lt;p&gt;一個好的工程師&lt;/p&gt;
+
+&lt;p&gt;而一個好的設計師&lt;/p&gt;
+
+&lt;p&gt;思考問題本質和更深層次的理解和意義，也不限於形式下，去探索一個針對現有現象或&lt;/p&gt;
+
+&lt;p&gt;形式不同而已&lt;/p&gt;
+
+&lt;p&gt;有意義嗎？！
+大家有些時候
+有些設計，是沒有意義？&lt;/p&gt;
+
+&lt;p&gt;設計，是不科學的？&lt;/p&gt;
+
+&lt;p&gt;舉個例說，大家所知道的相機，這個定義其實就是一個設計…但作為設計者本身，可能會
+單反也好，單電也好，都需要有鏡頭&lt;/p&gt;
+
+&lt;p&gt;舉個例子說，我們知道的咖啡，從普通的一個咖啡豆&lt;/p&gt;
+
+&lt;p&gt;美本身…是手段
+為什麼有意義？&lt;/p&gt;
+
+&lt;p&gt;其實也總結了很多方法論，好像黄金比例&lt;/p&gt;
+
+&lt;p&gt;因此，可能我性格所然吧，我比較喜歡做設計的&lt;/p&gt;
+
+&lt;p&gt;科學家
+沒敢稱自己為設計師
+我自知自己沒夠聰明
+設計 ≠ 美工
+美學，不科學？&lt;/p&gt;
+
+&lt;p&gt;其實，為什麼我比較愛上
+IT行業一直都在談創新…但在行內的IT從業員，究竟有沒有想過你能帶來的創新是什麼一回事？我在IT行業內所認識到的創新又是什麼？&lt;/p&gt;
+
+&lt;p&gt;其實當中有很多的共通點來著，或許這次跟大家說說.. :p&lt;/p&gt;
+
+&lt;p&gt;設計師 »&amp;gt; 美工 »&amp;gt; better solution » 重經驗 » 沉澱
+工程師 »&amp;gt; 碼農 »&amp;gt; possiblity &amp;amp; feasibility » 執行 » 重方法&lt;/p&gt;
+
+&lt;p&gt;美是一種經驗&lt;/p&gt;
+
+&lt;p&gt;除此之外，在看國外IT行業怎樣跟設計行業越走越近，也因此在近年新興起用戶體驗（user experience）這個行業看吧&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;數理&lt;/li&gt;
+  &lt;li&gt;logics&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;beauty of mathematics&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;design sense
+    &lt;ul&gt;
+      &lt;li&gt;experience 沉澱&lt;/li&gt;
+      &lt;li&gt;think about&lt;/li&gt;
+      &lt;li&gt;life&lt;/li&gt;
+      &lt;li&gt;knowledges&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;convergent vs divergent&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;why why why&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;國足為什麼打不郅&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;pattern&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;find solution&lt;/li&gt;
+  &lt;li&gt;understand problem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;策划人不仅仅需要大量的读书和思考、积淀，你的“创意包”才能够越来越多 。如果你缺少对人文、历史、地理等等的积淀，那么你的思想将会一直枯竭。
+所以策划人不要始终专注于看专业书 ，还需要更多的涉猎其他的书籍，包括旅游、电影等等文化性的活动，策划的学习不仅仅是书本，耍也可以、吹牛也可以。
+我常常在很多时候捕捉到创意的灵感，逛商场的时候/上厕所的时候/走路的时候/睡觉之前，但是回归头来，这些创意的诞生。难道不与我平实大量的调研、阅读、思考和观察有关吗?
+创意的闪现需要你大量的基础工作
+还要经常思考、观察。 要学会做一个会思考的人
+沉淀
+没有既定的思路或者方法&lt;/p&gt;
+
+&lt;p&gt;UX
+- design concept
+- mental model&lt;/p&gt;
+
+&lt;p&gt;創做更好的世界&lt;/p&gt;
+
+&lt;p&gt;面對激烈競爭和瞬息萬變的市場環境，企業怎樣因應時況迅速應對及調節?&lt;/p&gt;
+
+&lt;p&gt;而一切的機制，重點作於怎樣有效協作，並將項目進度盡量透明&lt;/p&gt;
+
+&lt;p&gt;我們會實行一些機制，重點在於將項目盡量透明化，以幫助溝通和協作:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;將計劃細分為以週數為算的時段（我們稱之為迭代, Iteration)，讓執行計劃得以短時間內，不斷的反覆檢討進行調整。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;任何新的想法，或因應市場情況而沒在預計之內的工作，都可隨時加入項目的待辦事項內&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;而在每個迭代完畢，也會因應各種已製訂的任務或新想法和工作，反覆調整各種工作的重要性和優先次序。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;預算安排好後，只能跟著計劃執签，不在範圍內的先不談論，也沒法安排相關預算
+「當項目落實後，就要把執行計劃製定好，預算安排好，並對各種改變和意見作出規範，不在範圍內的先不談論，也沒法安排相關預算」&lt;/p&gt;
+
+&lt;p&gt;「開始一個項目的時候，傾向先做較週詳的前期市場調研…慎重作出結論才付諸實行 」
+但…現在的世代，這太慢了~~! 這樣我們怎樣把握突然而來的各種機遇？&lt;/p&gt;
+
+&lt;p&gt;「…市場調研過後，便會做市場定位 (Market Segmentation)，舉個例說，我們會常聽到，我們這款產品是針對二十到三十歲的白領，年薪於xx萬到xx萬之間…」
+這樣的定位方式，您覺得您能足夠了解客戶嗎？尤其現今的競爭環境，人家能用心發掘用戶的潛在需求，跟客戶建立歸屬感，建立用戶心中想法的產品和服務；相反，我們連用戶具體是怎樣也沒對手那麼清楚，那，該怎麼鬥？&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Manage vs Lead&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;协作：怎样理智又迅速地寻找共识应对各种变化
+伸延出业务发展的各种可行性
+现在，不愁没有选择
+消息量过于庞大&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;问题：
+- 怎样消化庞大的资讯
+-&lt;/p&gt;
+
+&lt;p&gt;要迎合市場急速改變的節奏，那就意味著，要不停審視局勢，並因應改變能有效作出及實踐各種決策；
+一個人，所能辦的事情有限，而要是一個企業或一個團體，怎樣大家有效取得共識，再而有效協作、實行及監控，又將會是很頭痛的難題。&lt;/p&gt;
+
+&lt;p&gt;那，該怎麼攪？ &lt;br /&gt;
+其實，一切的關鍵，在於溝通。&lt;/p&gt;
+
+&lt;p&gt;解構專業&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;convergent vs divergent&lt;/p&gt;
+
+&lt;p&gt;design contradict with agile?&lt;/p&gt;
+
+&lt;p&gt;seek for the best alternative, within a reasonable time.
+but not in the name of agility in pushing for execution without thoughful decision&lt;/p&gt;
+
+&lt;p&gt;that's why we have a section in inception&lt;/p&gt;
+
+&lt;p&gt;think before action.&lt;/p&gt;
+
+&lt;p&gt;沒想好方向而埋頭苦𠏉，也是浪費
+資源有限&lt;/p&gt;
+
+&lt;p&gt;策划人不仅仅需要大量的读书和思考、积淀，你的“创意包”才能够越来越多 。如果你缺少对人文、历史、地理等等的积淀，那么你的思想将会一直枯竭。
+所以策划人不要始终专注于看专业书 ，还需要更多的涉猎其他的书籍，包括旅游、电影等等文化性的活动，策划的学习不仅仅是书本，耍也可以、吹牛也可以。
+我常常在很多时候捕捉到创意的灵感，逛商场的时候/上厕所的时候/走路的时候/睡觉之前，但是回归头来，这些创意的诞生。难道不与我平实大量的调研、阅读、思考和观察有关吗?
+创意的闪现需要你大量的基础工作
+还要经常思考、观察。 要学会做一个会思考的人
+沉淀
+没有既定的思路或者方法&lt;/p&gt;
+
+&lt;p&gt;問題是往內抓, 而不是往外尋找&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;心理預演&lt;/p&gt;
+
+&lt;p&gt;這些年由於工作關係，有幸更容易接觸到形形式式各種的嶄新思維。
+可能我是一個不願意隨波逐流，人說什麼我就會全單接收和認同的那類人。
+也可能因為自己讀數理的基礎吧，什麼事情都會先想，一路鍛鍊出來的批判性思維讓我一直反思當中的共通點，
+並通過比較和理解，尋找足夠理由能說服自己，再完全消化以致融匯貫通，以豐富一直以來適合自己的一套想法和風格。
+也或許，表面的認知一直對我來說沒多大意義和興趣吧…
+(其實更可能是我太懶不愛記事情而已，當足夠深入理解一件事情，自自然然什麼公式方法都不用硬記，從小讀書就是這樣混的.. :p)&lt;/p&gt;
+
+&lt;p&gt;国王的新衣&lt;/p&gt;
+
+&lt;p&gt;不该定义的年代
+被上载的大脑&lt;/p&gt;
+
+&lt;p&gt;定义，方法… 指定时间歇性，相对稳定的 总结&lt;/p&gt;
+
+&lt;p&gt;互联网思维其实坊间有很多不同的说法，而我自己则不愿定义什么，也很讨厌，因为可能我是读数理出身的人，一条formula，或一种方法理论，不是你啥&lt;/p&gt;
+
+&lt;p&gt;要不也只是一种狭义的牢套，没啥意思，甚至误人子弟。
+远比所想的&lt;/p&gt;
+
+&lt;p&gt;说实，我是很讨厌Jargon（术语）的人… 坦白说，这十年一大堆，3G、LBS、电商、B2B、B2C、至所谓O2O、云端、大数据各种各样，只要你想看起来专业，你总不愁找不到一堆专业名词陪衬。&lt;/p&gt;
+
+&lt;p&gt;市场总爱将所有他们认为所知的归类，有权者都会。在商业上，其实只要真正有策略实践经验的，多少领悟到这都是大巨头布局出来的游戏规则，除非你能身处在这个架构的主生态圈内混，要不在&lt;/p&gt;
+
+&lt;p&gt;illusion of knowledge
+over confidence&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;極致&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;like wall&lt;/li&gt;
+  &lt;li&gt;(fail case)&lt;/li&gt;
+  &lt;li&gt;lean, 極致 ,not really a mandatory&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;策略，對我而言，更多是找尋市場的空間和位置。，这我视是为行业/市场上的颠覆
+一个缺口而言，本质上其实还是基于对市场的洞悉
+行业环境是否已经饱和，有没有缝隙，对手是否强大。&lt;/p&gt;
+
+&lt;p&gt;其實，
+通過對市場和競爭的深刻認識
+找尋寶石，沒被開發的空
+空隙&lt;/p&gt;
+
+&lt;p&gt;策划缺少精准的切入、指向和创意的闪耀，那么你只能适合当一个写手
+充其量只能是一个文案或者文秘，不是文案策划，更不是策划
+【war】你需要熟悉你的产品以及对手竞品，了解竞品的特性、优点、缺点。 才能找到竞争对手的软肋，最终提炼出你的卖点或者策略的支撑点 
+精准的指向你的目标群。砍死你的对手，把市场切割开来，这就是策划之剑!&lt;/p&gt;
+
+&lt;p&gt;没有策略的支撑战略永远都不会落地
+你会发现策划不仅仅教会你策划 还会教会你如何认识自己、如何做人。做人、 做品牌、做企业，在策划人看来一定是相同的。
+(一个好方案我觉得就是：找准一个好的目标，找到一种好的方法。)
+你的广告或受制于市场环境、团队、竞争对手、产品特性的诸多枷锁，你能不能把枷锁变成你的道具
+行业环境是否已经饱和，有没有缝隙，对手是否强大。&lt;/p&gt;
+
+&lt;p&gt;我觉得任何一个企业在干事情的时候都应该把自己的目标定得和苹果一样，做到极致的同时不断推进技术创新
+追求極致也是一種成功的玩法，但不代表成功的玩法就得需要公司。
+跟據自身的位置選取合適的經營手段，這就是策略&lt;/p&gt;
+
+&lt;p&gt;一，商业模式重构的浪潮确实来了，难以阻挡。其实我个人很忌讳用重构一词，倾向于创新二字，因为我一直觉得很多传统行业的市场需求和客户群体是很难变的，不可能互联网大潮一来，不吃饭不买房了都。但很可能会有很多因素导致渠道的去媒介和新品牌新企业的崛起。&lt;/p&gt;
+
+&lt;p&gt;二，结合上述观点，我非常认同关于传统企业进行自我精益管理的应对方式。我觉得任何一个企业在干事情的时候都应该把自己的目标定得和苹果一样，做到极致的同时不断推进技术创新。或者就像任正菲说得那样，有的企业在互联网思维的大环境下不行了，那是他们自己的问题。&lt;/p&gt;
+
+&lt;p&gt;不否认新的技术和产品的革新会创造新的市场，甚至淘汰老的行业，比如汽车取代了马车，未来可能也会被什么飞行器取代。但是，这并不意味着汽车厂家就不会成为飞行器厂商，他们完全可以自主实现技术革新。看看GE。&lt;/p&gt;
+
+&lt;p&gt;况且，现在大家的技术还基本上在同一水平，小米做出的手机华为同样也有，如果它愿意，华为也完全可以按照小米的方式卖手机。暂且先不讨论是否裁员转型是否涉及社会责任的问题，背后的意义在于，这种所谓的商业模式重构并非建立在新产品或服务的基础上，而是营销渠道的重构。换句话说，您的成功可以复制。你打败的，只是同行业的对手，同时还有一个前提，就是你的东西要保质。&lt;/p&gt;
+
+&lt;p&gt;所以，我觉得任何想做事情的企业家，都应该先把自己的产品和服务定位好，再谈渠道。互联网有很多创新的地方，比如基于用户，数据衍生的盈利模式，但我们仔细想想，这不也是他们这个行业的服务和品牌么？难道有谁做了什么超越这个价值的事情了？&lt;/p&gt;
+
+&lt;p&gt;互联网思维被热炒的负面影响是，很多人觉得营销是一切，说难听点就是炒作自己，搏出位。这是应该杜绝的。其他的我暂时想不出来了。&lt;/p&gt;
+
+&lt;p&gt;谢谢师兄那么仔细的看我写的东西，我也说说我的一些看法吧..&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;其实我跟师兄的想法挺类似的.. 我觉得商业模式并非重构，但我觉得也谈不上创新。可能我站的角度本身是商业的竞争本质和满足市场供需法则其实并没有改变。互联网的出现只容许更多的手段和契机让公司和产品迅速「进化」，生态圈本身是依旧没变的，适者生存，弱肉强食。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;其实师兄的在第二点上的观点我是很认同的。也许我在这之上作些补充吧..&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;策略，對我而言，更多是找尋市場的空間和位置。，这我视是为行业/市场上的颠覆
+一个缺口而言，本质上其实还是基于对市场的洞悉&lt;/p&gt;
+
+&lt;p&gt;对于极致那点，我觉得我会倾向从竞争的本质角度看待这个事情。竞争是多维度的，也极可能是以你不为意的角度和玩法去跟您竞争，这我视是为行业/市场上的颠覆，这可以是全没章法而已。小米和苹果以UX/技术作为突破点只是看到市场演变上的一个缺口而言，本质上其实还是基于对市场的洞悉&lt;/p&gt;
+
+&lt;p&gt;也因此要是反过来说每间公司都有着这个一个极致的追求我觉得却不一定，出发点错了。同时间，极致也可以是很多面的，本质在于市场的需求；再者，市场竞争，我认为也需要根据自己在行业本身的位置和所拥有的资源作定夺，不一定极致就是最好的策略。&lt;/p&gt;
+
+&lt;p&gt;其实关于策略竞争这事，我以打算往后用一些篇幅写写我的看法吧…实在太多要说.. :p&lt;/p&gt;
+
+&lt;p&gt;玩物喪志&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;100%认同任何持之以恒的成功，都是在于产品或服务本身，以及对市场的理解精准定位，互联网只是一个手段而已.. 而在所谓「互联网思维」其中一个我很认同的点，是任何的假设其实是需要快速验证的，互联网的出现给予一个迅速验证市场需求的机遇。&lt;/p&gt;
+
+&lt;p&gt;也许我作一个比喻吧，思维的改变可能是：&lt;/p&gt;
+
+&lt;p&gt;以前，我们只会想，我有什么资源，任么渠道，什么关系，该怎样把钱赚回来。&lt;/p&gt;
+
+&lt;p&gt;现在，有不少案例跟我们说，只是你的东西在市场得到客户认同，你找到了那个价值，钱自然会过来。&lt;/p&gt;
+
+&lt;p&gt;这只是两套不同的思维体制而己。&lt;/p&gt;
+
+&lt;p&gt;"迷茫的時候"&lt;/p&gt;
+
+&lt;p&gt;心靈雞湯&lt;/p&gt;
+
+&lt;p&gt;現在的世界，我們的大腦在某程度上都在上載，互聯網就是一個集成的大眾人文思想智慧的共同體?&lt;/p&gt;
+
+&lt;p&gt;今天說點比較輕鬆的話題吧…也嘗試用另外一個比較自身的角度去寫寫看，想知道大家的反應會是如何？ :p&lt;/p&gt;
+
+&lt;p&gt;是那個時刻？想當年就是剛進大學的那一個時候吧（不知不覺已是16年前的事了，唉…不得不認老了… =__=:）或許，我把那一刻的心路歷程說出來，或許會對大家有另一番的體會。&lt;/p&gt;
+
+&lt;h1 id="section"&gt;脫變「挨踢」男的血淚反思&lt;/h1&gt;
+
+&lt;p&gt;在未進大學之前，我是熱血愛玩也叛逆的青年，電腦對我來說只是自閉的玩意，能力興趣也只停留在386/486年代只能勉強安裝些遊戲玩玩而已。&lt;/p&gt;
+
+&lt;p&gt;數理算是很不錯，也因此不是書呆子，因為高中的純數學，更多的是需要很強的邏輯思維和多角度思考，當懂得融匯貫通的時候，這樣要記的所謂公式也就會少得多。其實要說實在，是數學教曉我設計才對（下一篇文章《程序猿和設計獅》會說到吧.. :p)&lt;/p&gt;
+
+&lt;p&gt;加上我的歪理，也聽過人只能運腦袋只能運用十分之一的學說吧，因此更覺得我的腦袋該更專注於思考問題身上，而不要浪費資源在背誦死記生上。（也當然是當選擇數理為主的高考也不用背誦很多）&lt;/p&gt;
+
+&lt;p&gt;但…因為前途，也因為是特別難進的學科，糊里糊塗就選上IT這條不歸路…&lt;/p&gt;
+
+&lt;p&gt;大學第一天我所面對的，就是一個全然陌生的世界，連選科也得用上網上系統；當市面上連modem也是電信公司剛推出的嶄新服務，我要在大學每日所接觸的，是100M/s上下載速度的光纖網絡，在互聯網和Netscape火紅的瞬間。&lt;/p&gt;
+
+&lt;p&gt;不難想像，這就好像在腦裏投了一顆原子彈一樣，就像原始人遇上外太空文明那樣驚訝徬徨。&lt;/p&gt;
+
+&lt;p&gt;冷漠感&lt;/p&gt;
+
+&lt;p&gt;反思..&lt;/p&gt;
+
+&lt;p&gt;對錯 絕對的觀念
+師生關係 反叛&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;三個維度四個觀點，所謂總結&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;任何觀點, 都有正反… 在意你怎樣消化, 怎樣看&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;被上载的大脑&lt;/p&gt;
+
+&lt;p&gt;現在的世界，我們的大腦在某程度上都在上載，互聯網就是一個集成的大眾人文思想智慧的共同體?&lt;/p&gt;
+
+&lt;p&gt;可能我就是從少就爭取時間愛玩耍的人，也正正因為這樣，很早就會想，電腦，或互聯網的出㺺對我的幫助在於什麼?&lt;/p&gt;
+
+&lt;p&gt;很慎密的邏輯思維判定能力&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;sources, frequency, logics&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;think rather than remember&lt;/li&gt;
+  &lt;li&gt;organize your information 
+==&amp;gt; PIM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="section-1"&gt;後記&lt;/h1&gt;
+
+&lt;p&gt;創意的閃現，其實需要你大量的基礎工作，跟平日大量的調研、閱歷、思考和觀察有關。不是專注於看專業書就可以，還需要更多的涉獵其他的領域，對人文、歷史、地理、政治、社會、心理學等等，也包括旅遊、電影等等文化性的活動，甚至玩的時候可以，吹牛也可以。當你能慢慢養成以上所說的，以探索的心態經常思考、觀察，你的創意靈感就會源源不絕。&lt;/p&gt;
+
+&lt;p&gt;啦，也常常需要短時間內&lt;/p&gt;
+
+&lt;p&gt;當然，在工作上，有很多時候這是不容許的。我的做法是跟客戶做一些ideation的工作坊時，除了在工作坊內透過不同活動啟發他們的創意外，我也不會在每一個活動，急於那短時段內下傖促下結論，通常會給多一天的時間想想補充，也在容許的情況下於前一天讓與會者先好好預備先想一下。這樣團隊能想出來的創意，會比短時間內的頭腦風暴會充俗和全面不少… :p&lt;/p&gt;
+
+&lt;p&gt;think out of box
+diverse knowledge&lt;/p&gt;
+
+&lt;p&gt;很多人覺得美是一種主觀的東西，的而且確，美是一個主觀的感受，&lt;/p&gt;
+
+&lt;p&gt;mindmap&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;萬物關聯法則&lt;/li&gt;
+  &lt;li&gt;玩物喪志&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;把知識&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;UX&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;多線性&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Why Why Why&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;凡事非必然，必然的法則背後是什麼？
+可不可以這樣？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;因此，我們往往常犯的一個錯誤，認為我們用頭腦風暴（Brainstorming），就一個問題分散一下去想出幾個方案，就以為已有用上了Divergent Thinking的想法好好思考問題，但其實用上Brainstorming，極其量只是Divergent Thinking的其中一個比較熟悉和慣用的手段而已。&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>互联網世代下的我</title>
+    <link rel="alternate" href="http://blog.url.com/hk/2015/01/03/Internet-me/"/>
+    <id>http://blog.url.com/hk/2015/01/03/Internet-me/</id>
+    <published>2015-01-03T00:00:00+08:00</published>
+    <updated>2015-07-23T23:46:57+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;…就以自己为例子吧..&lt;/p&gt;
+
+&lt;p&gt;說實話，你現在問我，我的專業是什麼，說實話，抱歉我真的答不出來，更多的，可能是不知怎樣回答…&lt;/p&gt;
+
+&lt;p&gt;在前一份在業內頗知名的美資IT諮詢公司上班，由開發編程，設計，UX/XD，到做出一手超炫的PPT演講能力，甚至跟客戶做起策略方案；到現在領域涉足到的，是傳統行業革新和往後要著力的Growth hacking。這種種都算是我的專業，也有實質的硬功底，這可能就是一個諮詢師的命運吧…&lt;/p&gt;
+
+&lt;p&gt;當然，我覺得這很大部分是逼出來的。之前創業的八年艱難日子，磨練不只是各種技巧，更是意志。當你每天在思考和自我質疑的時候，回頭看，你會䁷得成長和領悟是幾何級數的…更多的是書本上體會不了。&lt;/p&gt;
+
+&lt;p&gt;更多的，是興幸進入了這間公司，&lt;/p&gt;
+
+&lt;p&gt;不同的人，在不同的時期，身邊的都很好奇的對我有不同的疑問：&lt;/p&gt;
+
+&lt;p&gt;在前期，會問，你是編程的…為啥能做起設計來？&lt;/p&gt;
+
+&lt;p&gt;漸漸… 編程的角色慢慢淡忘，一些人又會驚訝，在項目執行時，在技術實踐的能力。理論上的如MVC, TDD，到實行上的各種只要關乎前端的，如RoR, Angular JS, CSS3/HTML5, 甚至到移動應用上的phonegap, 小弟多少有不少研究，好歹不能壞了大學工程學系畢業之名吧… :p&lt;/p&gt;
+
+&lt;p&gt;到後期，從沒做過PPT，不愛演講，為啥一開始做就能做出超炫的PPT，怎樣學會的？&lt;/p&gt;
+
+&lt;p&gt;又到往後甚至做的不再是開發或設計，更多的，是跟客戶說起策略&lt;/p&gt;
+
+&lt;p&gt;是設計師 / UX嗎? 程序猿嗎? 可以說是，但我不&lt;/p&gt;
+
+&lt;p&gt;是設計嗎? 算是吧…這幾年我跟客戶做的主要是體驗設計(Experience Design, XD)或用戶體驗(User Experience, UX) 部份？接著，更大的問題是，UX是啥?&lt;/p&gt;
+
+&lt;p&gt;是程序猿嗎? 也算是俋，在project執行的時期上也做不少，其實，前同事們很多以為我做美工，充其量懂寫點HTML或簡口口十田的JS。其實，我是地地道道的Engineering&lt;/p&gt;
+
+&lt;p&gt;都不知我是Engineering出身的，以為只做美工方面，可能頂多寫寫HTML簡單的CSS而己，但其實我美工根底不強，反而凡涉足前端技術的，e.g. RoR, Angular JS, CSS3/HTML5, 甚至到移動應用上的phonegap等等，自問經驗不少，代碼架構算是寫得不差…
+或敏捷開發所需，&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>創造力是什麼？怎樣提昇自我創造力？</title>
+    <link rel="alternate" href="http://blog.url.com/hk/2014/10/07/creative/"/>
+    <id>http://blog.url.com/hk/2014/10/07/creative/</id>
+    <published>2014-10-07T00:00:00+08:00</published>
+    <updated>2015-07-23T23:46:57+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;抱歉大家，最近的確也受到近期的社會事情影響，所以慢了些時間發佈這篇文章…&lt;/p&gt;
+
+&lt;p&gt;上次發了篇文章也收到點回饋…要不，我也說說我對創造力的看法，和一些我認為可以讓自己更有想像力創造力的一些辦法吧…&lt;/p&gt;
+
+&lt;p&gt;首先…要說創造力，我覺得還是要先從分散性思維（Divergent Thinking）說起。分散性思維其實跟我們一般在求學上常運用的聚斂性思維（Convergent Thinking）是很不一樣的思考方法。我們其實都很具執行力，因為本身我們已從小鍛鍊就著一個問題思考出背後的唯一一個答案；而Divergent thinking的思考模式並不太一樣，要總結的話，可試試從以下的幾個方向想想吧：&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="../../../../../img/20141007/divergent-thinking.jpg" /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;一條問題，是不是能有不同的答案？可不可以這樣？又可不可以那樣？&lt;/li&gt;
+  &lt;li&gt;一條問題，其實可以從不同角度去詮釋？能不能從令一個角度，可以看出問題其實有不一樣的問法嗎？&lt;/li&gt;
+  &lt;li&gt;深入問題的核心。一個問題背後是什麼原因，有什麼動機？一直往問題的成因思考可能性…&lt;/li&gt;
+  &lt;li&gt;作死的節奏，簡單說，就是不容易妥協的態度。為什麼是這樣？為什麼又非要這樣？不滿足於直接簡單的答案。&lt;/li&gt;
+  &lt;li&gt;不斷的假設。就好像，假如這樣的話..會是怎樣？那要是那樣的話，又會怎樣？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;說得太抽象了吧…或許，嘗試舉一個例子吧…（發現，原來要想一個很合適的例子也是很難.. =__=:）&lt;/p&gt;
+
+&lt;p&gt;就說說我們常用的手機或ipad的屏幕吧….要想把保護屏幕，可能我們很自然的，就會想，要不加個貼膜，又或是蓋不就好了?&lt;/p&gt;
+
+&lt;p&gt;這是比較典型的解決問題的思路，想到一個問題，就只針對那個問題尋找一個可接受的最佳答案。&lt;/p&gt;
+
+&lt;p&gt;而Divergent Thinking我們關注的問題就不太一檥了，舉個例說，我們可能會問以下這些問題：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;貼膜的話，會否就是真的解決了問題？有沒有更好的方法？&lt;/li&gt;
+  &lt;li&gt;為什麼我們要去保護屏幕？不想弄花背後的原因和憂慮是什麼？要是因為想保值的話，是否我真的會拿去賣？OK…就算想賣的話，其實會不會有更簡單直觀的用其他方向解決我的「憂慮」，而不是解決不想弄花屏幕這個表象問題？&lt;/li&gt;
+  &lt;li&gt;要是用蓋旳話，發現在床上拿著看時，其實挺礙事的，為什麼非要那個蓋纏著我看東西？（我想，iPad cover就是這樣從啟發出來，我覺得那個磁石扣是一個很了不起的設計，驚嘆為什麼那麼多年都沒嘗試從這個方向想過…)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;整個過程更多是像一個冥想（meditation）的狀態，每次嘗試發覺自己的疑問，就算每次想同一個問題時，都會有不同的假設，不同的方向，誘發出不同的答案，不同的可能性，我們要找的，不是一個答案，其實更多是，找尋一個靈光一閃、有趣的、與別不同的假設。&lt;/p&gt;
+
+&lt;p&gt;同時間，我一直反感每一件事情都要一個套路，一套法則，這不是Divergent Thinking的精髓，把經驗積累成教條方法本身已是一個聚斂的過程，每次跟隨這個套路無疑只是在學校或工作職場一直訓練您的思維模式，也把你的想像力規範在一個框架內了，其實在一開始就已經遺背了本義，也是我在國內看到過最多自以為這是創造性思維最大的錯誤。&lt;/p&gt;
+
+&lt;p&gt;其實要說準的話，這個嘗試總結的辦法，其實解決的，可能不是問題本身，更多的，或許只是解決了他心中沒法掌握操控的焦慮而已。&lt;/p&gt;
+
+&lt;h1 id="section"&gt;創意，是需要沉澱的&lt;/h1&gt;
+
+&lt;p&gt;那可能大家也會問，就算以上有些我都知道了，為什麼總覺得不夠創意？或不夠別人想得好？其實主要原因很可能在於，在一開始，習慣和心態就跟他們有著根本的分別。&lt;/p&gt;
+
+&lt;p&gt;為什麼這樣說？其實大部份的人，通常要到了他意識到一個很具體的問題時，才會去想有什麼應對的方法，或再深入點的，就是先未雨绸缪，但通常都還是會就著圍繞一個突定的主題去探索。&lt;/p&gt;
+
+&lt;p&gt;但，創意的點子更多的，其實就是生活的積累，是一個習慣。要說主題的話，是生活吧…生活上不著邊際的探索。其實這句話真不是裝還是作啦，主要我的意思是，要真的去用心感受世界上每一樣對你有感覺的事情，當任何一件事情能走進你的視嘢並留下印象，或任何讓你去注意、在意或產生感覺的時候，就去用心思考你自己本身跟那件事件或物件的感情聯系在那。這不是一天兩天就有成效，而是日積月累的修為。&lt;/p&gt;
+
+&lt;p&gt;這樣的做法，除了能幫助自己在發掘問題的靈敏度外 ，一天一天把這些碎片式的想法積累，可能因為幾個不一樣的點子的聯繫啟發出新的想法，也同時讓您當遇上什麼問題時，腦子裏的所謂靈感，往往就是把事情跟以往的各種想法感覺聯繫重新回想起來。&lt;/p&gt;
+
+&lt;h1 id="section-1"&gt;跟敏捷相違背？&lt;/h1&gt;
+
+&lt;p&gt;又來了另一個矛盾，我常常都說要想清楚，但同時在工作上，當然不能議而不決，只想不做。那豈不是，設計跟現在主流的迅速應對思想，如Agile、Lean等，相互沖突嗎？&lt;/p&gt;
+
+&lt;p&gt;我覺得得要事情到了什麼階段吧。當一件事情在剛開始或進任下一個階段，或在一個瓶頸的時候，就是最需要新的想法和創造力的時候。&lt;/p&gt;
+
+&lt;p&gt;要是在這些時候，在概念還是模糊未成形的時候，通常進度的壓力沒有那麼大，其實這段時候，剛好好思考清楚，好好運用創意，選取一個相對比較好的大方向（而不是結論）。因為大方向就好比一棟建築物的根基，中途更改，其實是更大的浪費。也像&lt;a href="http://stillnaughty.com/hk/2014/09/12/solving-the-wrong-problem"&gt;我之前的一篇文章&lt;/a&gt;也提過，引用過Einstein的一番話：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I'd spend 55 min. defining the problem &amp;amp; only 5 min. finding the solution.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;那95%在我看，就是在思考那個策略和方向，而那5%就是Agile/Lean的範疇了。當然，那5%的執行階段，當然也可細分為不斷分散和聚斂思考的Iterations，但相對由於沒有涉及什麼大方向的思考，花費的時間和精力就會少得多…&lt;/p&gt;
+
+&lt;p&gt;那95%是否代表非要花很多的時間嗎？我覺得倒不然，我的看法是精力放在前期要多得多的意思。其實，想事情不會花您太多時間，要是用上一整天的精力去想事情的話，能想出來的東西還是可以很多的，問題只是，能不能想出來而已。&lt;/p&gt;
+
+&lt;p&gt;當然…在職場上，當然，不可能每一刻情況都那麼完美。也常常需要一個短時間內，需要幫助一個團隊創意爆發。我們通常會做一些Ideation的工作坊，通過Game storming或一些不同的互動活動，幫助團隊一起去啟發並一起創建達成意見，有機會的話，跟大家說多點吧… :p&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a class="prev link" href="http://stillnaughty.com/hk/2014/09/19/user-experience"&gt;＜上一篇&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a class="next link" href="http://stillnaughty.com/hk/2014/10/06/creative"&gt;下一篇＞&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+  </entry>
+  <entry>
+    <title>创造力是什么？怎样提升自我创造力？</title>
+    <link rel="alternate" href="http://blog.url.com/cn/2014/10/07/creative/"/>
+    <id>http://blog.url.com/cn/2014/10/07/creative/</id>
+    <published>2014-10-07T00:00:00+08:00</published>
+    <updated>2015-07-23T23:46:57+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;抱歉大家，最近的确也受到近期的社会事情影响，所以慢了些时间发布这篇文章…&lt;/p&gt;
+
+&lt;p&gt;上次发了篇文章也收到点回馈…要不，我也说说我对创造力的看法，和一些我认为可以让自己更有想像力创造力的一些办法吧…&lt;/p&gt;
+
+&lt;p&gt;首先…要说创造力，我觉得还是要先从分散性思维（Divergent Thinking）说起。分散性思维其实跟我们一般在求学上常运用的聚敛性思维（Convergent Thinking）是很不一样的思考方法。我们其实都很具执行力，因为本身我们已从小锻炼就着一个问题思考出背后的唯一一个答案；而分散性思维的思考模式并不太一样，要总结的话，可试试从以下的几个方向想想吧：&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="../../../../../img/20141007/divergent-thinking.jpg" /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;一条问题，是不是能有不同的答案？可不可以这样？又可不可以那样？&lt;/li&gt;
+  &lt;li&gt;一条问题，其实可以从不同角度去诠释？能不能从令一个角度，可以看出问题其实有不一样的问法吗？&lt;/li&gt;
+  &lt;li&gt;深入问题的核心。一个问题背后是什么原因，有什么动机？一直往问题的成因思考可能性…&lt;/li&gt;
+  &lt;li&gt;作死的节奏，简单说，就是不容易妥协的态度。为什么是这样？为什么又非要这样？不满足于直接简单的答案。&lt;/li&gt;
+  &lt;li&gt;不断的假设。就好像，假如这样的话..会是怎样？那要是那样的话，又会怎样？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;说得太抽象了吧…或许，尝试举一个例子吧…（发现，原来要想一个很合适的例子也是很难.. =__=:）&lt;/p&gt;
+
+&lt;p&gt;就说说我们常用的手机或ipad的屏幕吧….要想把保护屏幕，可能我们很自然的，就会想，要不加个贴膜，又或是盖不就好了?&lt;/p&gt;
+
+&lt;p&gt;这是比较典型的解决问题的思路，想到一个问题，就只针对那个问题寻找一个可接受的最佳答案。&lt;/p&gt;
+
+&lt;p&gt;而分散性思维我们关注的问题就不太一檥了，举个例说，我们可能会问以下这些问题：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;贴膜的话，会否就是真的解决了问题？有没有更好的方法？&lt;/li&gt;
+  &lt;li&gt;为什么我们要去保护屏幕？不想弄花背后的原因和忧虑是什么？要是因为想保值的话，是否我真的会拿去卖？OK…就算想卖的话，其实会不会有更简单直观的用其他方向解决我的「忧虑」，而不是解决不想弄花屏幕这个表象问题？&lt;/li&gt;
+  &lt;li&gt;要是用盖旳话，发现在床上拿着看时，其实挺碍事的，为什么非要那个盖缠着我看东西？（我想，iPad cover就是这样从启发出来，我觉得那个磁石扣是一个很了不起的设计，惊叹为什么那么多年都没尝试从这个方向想过…)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;整个过程更多是像一个冥想（meditation）的状态，每次尝试发觉自己的疑问，就算每次想同一个问题时，都会有不同的假设，不同的方向，诱发出不同的答案，不同的可能性，我们要找的，不是一个答案，其实更多是，找寻一个灵光一闪、有趣的、与别不同的假设。&lt;/p&gt;
+
+&lt;p&gt;同时间，我一直反感每一件事情都要一个套路，一套法则，这不是分散性思维的精髓，把经验积累成教条方法本身已是一个聚敛的过程，每次跟随这个套路无疑只是在学校或工作职场一直训练您的思维模式，也把你的想像力规范在一个框架内了，其实在一开始就已经遗背了本义，也是我在国内看到过最多自以为这是创造性思维最大的错误。&lt;/p&gt;
+
+&lt;p&gt;其实要说准的话，这个尝试总结的办法，其实解决的，可能不是问题本身，更多的，或许只是解决了他心中没法掌握操控的焦虑而已。&lt;/p&gt;
+
+&lt;h1 id="section"&gt;创意，是需要沉淀的&lt;/h1&gt;
+
+&lt;p&gt;那可能大家也会问，就算以上有些我都知道了，为什么总觉得不够创意？或不够别人想得好？其实主要原因很可能在于，在一开始，习惯和心态就跟他们有着根本的分别。&lt;/p&gt;
+
+&lt;p&gt;为什么这样说？其实大部份的人，通常要到了他意识到一个很具体的问题时，才会去想有什么应对的方法，或再深入点的，就是先未雨绸缪，但通常都还是会就着围绕一个突定的主题去探索。&lt;/p&gt;
+
+&lt;p&gt;但，创意的点子更多的，其实就是生活的积累，是一个习惯。要说主题的话，是生活吧…生活上不着边际的探索。其实这句话真不是装还是作啦，主要我的意思是，要真的去用心感受世界上每一样对你有感觉的事情，当任何一件事情能走进你的视嘢并留下印象，或任何让你去注意、在意或产生感觉的时候，就去用心思考你自己本身跟那件事件或物件的感情联系在那。这不是一天两天就有成效，而是日积月累的修为。&lt;/p&gt;
+
+&lt;p&gt;这样的做法，除了能帮助自己在发掘问题的灵敏度外 ，一天一天把这些碎片式的想法积累，可能因为几个不一样的点子的联系启发出新的想法，也同时让您当遇上什么问题时，脑子里的所谓灵感，往往就是把事情跟以往的各种想法感觉联系重新回想起来。&lt;/p&gt;
+
+&lt;h1 id="section-1"&gt;跟敏捷相违背？&lt;/h1&gt;
+
+&lt;p&gt;又来了另一个矛盾，我常常都说要想清楚，但同时在工作上，当然不能议而不决，只想不做。那岂不是，设计跟现在主流的迅速应对思想，如敏捷（Agile）、Lean等，相互冲突吗？&lt;/p&gt;
+
+&lt;p&gt;我觉得得要事情到了什么阶段吧。当一件事情在刚开始或进任下一个阶段，或在一个瓶颈的时候，就是最需要新的想法和创造力的时候。&lt;/p&gt;
+
+&lt;p&gt;要是在这些时候，在概念还是模糊未成形的时候，通常进度的压力没有那么大，其实这段时候，刚好好思考清楚，好好运用创意，选取一个相对比较好的大方向（而不是结论）。因为大方向就好比一栋建筑物的根基，中途更改，其实是更大的浪费。也像&lt;a href="http://stillnaughty.com/cn/2014/09/12/solving-the-wrong-problem"&gt;我之前的一篇文章&lt;/a&gt;也提过，引用过爱恩斯坦的一番话：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I'd spend 55 min. defining the problem &amp;amp; only 5 min. finding the solution.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;那95%在我看，就是在思考那個策略和方向，而那5%就是Agile/Lean的範疇了。當然，那5%的執行階段，當然也可細分為不斷分散和聚斂思考的，但相對由於沒有涉及什麼大方向的思考，花費的時間和精力就會少得多…&lt;/p&gt;
+
+&lt;p&gt;那95%是否代表非要花很多的時間嗎？我覺得倒不然，我的看法是精力放在前期要多得多的意思。其實，想事情不會花您太多時間，要是用上一整天的精力去想事情的話，能想出來的東西還是可以很多的，問題只是，能不能想出來而已。&lt;/p&gt;
+
+&lt;p&gt;当然…在职场上，当然，不可能每一刻情况都那么完美。也常常需要一个短时间内，需要帮助一个团队创意爆发。我们通常会做一些创意启发的工作坊，通过游戏风暴（Game storming）或一些不同的互动活动，帮助团队一起去启发并一起创建达成意见，有机会的话，跟大家说多点吧… :p&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a class="prev link" href="http://stillnaughty.com/cn/2014/09/19/user-experience"&gt;＜上一篇&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+  </entry>
+  <entry>
+    <title>用戶體驗知多點...</title>
+    <link rel="alternate" href="http://blog.url.com/hk/2014/09/19/user-experience/"/>
+    <id>http://blog.url.com/hk/2014/09/19/user-experience/</id>
+    <published>2014-09-19T00:00:00+08:00</published>
+    <updated>2015-07-23T23:46:57+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;說到用戶體驗（User Experience, UX），有些人可能聽過，但大家或許還是一知半解，又或是聽也沒聽過。&lt;/p&gt;
+
+&lt;p&gt;就如上兩篇文章所說，在我來看，UX是跟據了Design Thinking的理念，從工種上制定出一套可於企業運作上實踐應用的一套框架流程。那，UX的具體工作是怎樣的，跟傳統設計師的工作又有什麼不一樣？或許，今天嘗試寫一個普及帖吧，詳細說說UX具體方面的種種。&lt;/p&gt;
+
+&lt;p&gt;而在這個需要迅速應變的年代，大家或許可參考下，借鏡一下一些比較前進創新的行業做法，將UX應用實踐在您的企業部門內，開發真正以用戶為本的商品和服務吧~&lt;/p&gt;
+
+&lt;h1 id="section"&gt;從根本出發&lt;/h1&gt;
+
+&lt;p&gt;一直以來，企業的運作都更多於從自身的角度，或從功能角度出發為主導去提供解決的方案。這其實沒什麼問題，但很容易忽略了一個很重要的原素：那就是市場競爭的本質。&lt;/p&gt;
+
+&lt;p&gt;其實，解決問題，永遠都不只一個辦法。您提供了一個滿足市場的答案，不代表用戶覺得是最好的方案。在競爭的大環境裹，企業要做的，不只是要找出方案，更在於找出一個比任何人都要好的方案。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;企業要做的，不只是要找出方案，更在於找出一個比任何人都要好的方案&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;那，怎樣才算得上好的方案？很簡單，用戶在比較下最願意用的方案，就是最好的方案。因此，UX的工作，其實重點不在於頁面流程怎樣設計之類的實踐問題，但當然這是UX須要執行時的職務，而更重要的，是為團隊帶來設計的思維，通過對用戶的理解，讓團隊重新探索對問題更合適的解決方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;
+關於設計思維，可參考我寫的兩篇文章《&lt;a href="http://stillnaughty.com/hk/2014/08/22/programmer-vs-designer"&gt;程序猿vs設計獅&lt;/a&gt;》和《&lt;a href="http://stillnaughty.com/hk/2014/08/29/design-thinking"&gt;用户＞产品的核心思路和魔法&lt;/a&gt;》
+&lt;/small&gt;&lt;/p&gt;
+
+&lt;h1 id="section-1"&gt;由角色開始&lt;/h1&gt;
+
+&lt;p&gt;去幫助團隊去深入探索一個問題，再尋找出一個更好的解決方案。我們可把整個工序看大概可分為以下的若干環節：&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="pic" href="/img/20140919/process.hk.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/process.hk.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;將一個意念轉化成可實踐的方案，具體來說，就像拍電影又或調查案件一樣，我們會先從理解嫌疑犯/角色設定著手，創建出一個個不同的人物設定及檔案，我們稱之為Persona。&lt;/p&gt;
+
+&lt;p&gt;有別於以往我們以一些外在客觀條件如收入，職業，年齡等外在條件去劃分我們不同的客戶群。我們會創造一個個有血有肉的代表人物，付上他的名字，背景、生活狀況和態度思想等等，並盡量以圖像顯示的形式豐富人物的內容。&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a class="pic" href="/img/20140919/persona.1.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/persona.1.jpg" /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a class="pic" href="/img/20140919/persona.2.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/persona.2.jpg" /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;為什麼這樣做？&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;將分析資料可視化&lt;/strong&gt; &lt;br /&gt;
+把數據資料通過視像化和直觀的表達形式，有助我們對目標用戶產生共嗚和同理心（empathy），並能對需求有更深層次的理解。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;創建一套簡單的溝通語言&lt;/strong&gt; &lt;br /&gt;
+把模糊抽象的概念具體化，我們通過共同重新定義出Persona這一套簡單易明的語言，減少理解上的不一致，幫助團隊有效溝通及討論&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;理解背後動機和想法&lt;/strong&gt; &lt;br /&gt;
+理解一個行為決定，其實更多在於分析其背後的動機，往往受到背後成長和生活背景所形成的世界觀所影響，而不在於收入、職業、居住城市等表象因素。換句話說，以往的客戶群概念沒法讓我們深入理解用戶的潛在想法。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;量化比較&lt;/strong&gt; &lt;br /&gt;
+其實比較好的Persona做法，會嘗試設計不同的維度並跟據每個不同用戶進行量化，如用戶對科技產品的熟悉情度、購買力等等，那團隊就更能容易從程度方面比較不同角色。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;怎樣得出這些結論？&lt;/p&gt;
+
+&lt;p&gt;首先，在開始任何調研之前，我認為大前提在於，得先對所要處理的問題更慎重的思考和定義，可參考一點&lt;a href="http://stillnaughty.com/hk/2014/09/12/solving-the-wrong-problem"&gt;上篇文章&lt;/a&gt;我說的觀點吧。&lt;/p&gt;
+
+&lt;p&gt;然後，在調研方面，主要可通過以下三個方向的綜合應用，也視乎可投入的成本和時間：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;過往數據&lt;/strong&gt; &lt;br /&gt;
+跟據以往的用戶數據進行分析，也就是現在大數據的背後理念&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;接觸用戶&lt;/strong&gt; &lt;br /&gt;
+與用戶進行接觸，通過問卷，面對面的輕鬆訪談，或以日記形式記錄典型用戶的日常生活狀況，從而多維度全面的去嘗試了解用戶的種種種&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;市場研究&lt;/strong&gt; &lt;br /&gt;
+透過goolge及其他途徑搜集資料，透過對市場的理解和經驗嘗試歸納出幾個典型的人物模型&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="section-2"&gt;場景為先的真實體驗&lt;/h1&gt;
+
+&lt;p&gt;那，各個角色都齊備好了…那，下一步我們該怎麼做？&lt;/p&gt;
+
+&lt;p&gt;就像是拍電影一樣，我們需要一個場景，一個故事，一個用戶和你的產品或服務相遇的故事…&lt;/p&gt;
+
+&lt;p&gt;在構思整個場景的時候，整個團隊就能參與，並可以根據角色的心路歷程，親身去體會整個經歷，去查找討論犯駁或不合情理之處。而所完成的那個場景，我們會稱之為用戶經歷旅程（Customer Journey Map）。以下是一些範例：&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="pic" href="/img/20140919/CJM.2.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/CJM.2.jpg" /&gt;&lt;/a&gt;
+&lt;a class="pic" href="/img/20140919/CJM.3.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/CJM.3.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;用戶經歷旅程其實都有不同的風格，但整體來說在說明整個場景的時候，通常會注意以下三個指標：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;心情&lt;/strong&gt; &lt;br /&gt;
+量化當事人那刻的心情，通常會由開心至憤怒分為5個狀態&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;工具/媒介&lt;/strong&gt; &lt;br /&gt;
+要是當事人需要通過不同的方法，如電郵、電話等去完成某件事情，我們都會記錄下來。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;所需時間&lt;/strong&gt; &lt;br /&gt;
+要完成一件事情需要時間去等待，我們都會把等待狀態指示出來&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在構思整個過程仔細反覆考量後，我們得出的這個用戶的經歷旅程，就能比較清晰的關注到他的痛點（Painpoint）。例如：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;當用戶憤怒或不滿的時候，我們能夠提昇他的體驗麼？&lt;/li&gt;
+  &lt;li&gt;過頻繁的利用不同工具/媒介，我們可注意到並考慮是否有更直接和簡單的辦法。越多的需要運用各類工具和媒介，對用戶來說體驗越是糟糕。&lt;/li&gt;
+  &lt;li&gt;等待總是無聊的，除了可反思能不能革新整個流程外，在此時提供額外的幫助，或有效的縮短等待的時間，都是很好的切入點。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="section-3"&gt;關鍵時刻的來臨&lt;/h1&gt;
+
+&lt;p&gt;其實做了那麼多的東西，最重要的，就是想找到那個關鍵時刻（Moment of Truth, MOT）：那就是你的產品和服務，和用戶真正的切入點。&lt;/p&gt;
+
+&lt;p&gt;從用戶體驗的角度而言，我們要做到的，是讓我們理解不同的場景故事，和當中用戶是怎樣能跟我們的產品和服務交接的；又或是去主動找出跟用戶的交接的。&lt;/p&gt;
+
+&lt;p&gt;而去實現這些交接點的出現，也就我們一直所知的marketing了。&lt;/p&gt;
+
+&lt;h1 id="section-4"&gt;迅速驗証&lt;/h1&gt;
+
+&lt;p&gt;但說到底，這一切，都只是假設而已。所以，具體思路是通過盡快做出樣版（Prototype），通過反覆的驗証和反思，找出改進產品和服務的下一步方向，並一直循環下去。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="pic" href="/img/20140919/prototype.1.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/prototype.1.jpg" /&gt;&lt;/a&gt;
+&lt;a class="pic" href="/img/20140919/prototype.2.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/prototype.2.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;其實，用這種方法，您或許會問，這可以分散出無數的Persona和相關的多個經歷旅程（CJM），而甚至在每個CJM內也有多個關鍵時刻（MOT），無限伸延…那…我們該怎麼樣？&lt;/p&gt;
+
+&lt;p&gt;又不得不回到很早之前我寫的&lt;a href="http://stillnaughty.com/hk/2014/07/01/visualize-prioritize-quantify"&gt;一篇文章&lt;/a&gt;了，工作是永遠做不完的（要不您我早就失業了吧？:-p），原則在於把事情優先化（Prioritize），把抽象資料可視化（visualize）和可量化（quantify），回看一下，是否發現，UX的工作其實也是圍繞著這三個原則建立的？ :p&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a class="prev link" href="http://stillnaughty.com/hk/2014/09/12/solving-the-wrong-problem"&gt;＜上一篇&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a class="next link" href="http://stillnaughty.com/hk/2014/10/07/creative"&gt;下一篇＞&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+  </entry>
+  <entry>
+    <title>用户体验知多点...</title>
+    <link rel="alternate" href="http://blog.url.com/cn/2014/09/19/user-experience/"/>
+    <id>http://blog.url.com/cn/2014/09/19/user-experience/</id>
+    <published>2014-09-19T00:00:00+08:00</published>
+    <updated>2015-07-23T23:46:57+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;说到用户体验（User Experience, UX），有些人可能听过，但大家或许还是一知半解，又或是听也没听过。&lt;/p&gt;
+
+&lt;p&gt;就如上两篇文章所说，在我来看，UX是跟据了Design Thinking的理念，从工种上制定出一套可于企业运作上实践应用的一套框架流程。那，UX的具体工作是怎样的，跟传统设计师的工作又有什么不一样？或许，今天尝试写一个普及帖吧，详细说说UX具体方面的种种。&lt;/p&gt;
+
+&lt;p&gt;而在这个需要迅速应变的年代，大家或许可参考下，借镜一下一些比较前进创新的行业做法，将UX应用实践在您的企业部门内，开发真正以用户为本的商品和服务吧~&lt;/p&gt;
+
+&lt;h1 id="section"&gt;从根本出发&lt;/h1&gt;
+
+&lt;p&gt;一直以来，企业的运作都更多于从自身的角度，或从功能角度出发为主导去提供解决的方案。这其实没什么问题，但很容易忽略了一个很重要的原素：那就是市场竞争的本质。&lt;/p&gt;
+
+&lt;p&gt;其实，解决问题，永远都不只一个办法。您提供了一个满足市场的答案，不代表用户觉得是最好的方案。在竞争的大环境裹，企业要做的，不只是要找出方案，更在于找出一个比任何人都要好的方案。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;企业要做的，不只是要找出方案，更在于找出一个比任何人都要好的方案&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;那，怎样才算得上好的方案？很简单，用户在比较下最愿意用的方案，就是最好的方案。因此，UX的工作，其实重点不在于页面流程怎样设计之类的实践问题，但当然这是UX须要执行时的职务，而更重要的，是为团队带来设计的思维，通过对用户的理解，让团队重新探索对问题更合适的解决方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;
+关于设计思维，可参考我写的两篇文章《&lt;a href="http://stillnaughty.com/cn/2014/08/22/programmer-vs-designer"&gt;程序猿vs设计狮&lt;/a&gt;》和《&lt;a href="http://stillnaughty.com/cn/2014/08/29/design-thinking"&gt;用户＞产品的核心思路和魔法&lt;/a&gt;》
+&lt;/small&gt;&lt;/p&gt;
+
+&lt;h1 id="section-1"&gt;由角色开始&lt;/h1&gt;
+
+&lt;p&gt;去帮助团队去深入探索一个问题，再寻找出一个更好的解决方案。我们可把整个工序看大概可分为以下的若干环节：&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="pic" href="/img/20140919/process.cn.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/process.cn.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;将一个意念转化成可实践的方案，具体来说，就像拍电影又或调查案件一样，我们会先从理解嫌疑犯/角色设定着手，创建出一个个不同的人物设定及档案，我们称之为Persona。&lt;/p&gt;
+
+&lt;p&gt;有别于以往我们以一些外在客观条件如收入，职业，年龄等外在条件去划分我们不同的客户群。我们会创造一个个有血有肉的代表人物，付上他的名字，背景、生活状况和态度思想等等，并尽量以图像显示的形式丰富人物的内容。&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a class="pic" href="/img/20140919/persona.1.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/persona.1.jpg" /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a class="pic" href="/img/20140919/persona.2.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/persona.2.jpg" /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;为什么这样做？&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;将分析资料可视化&lt;/strong&gt; &lt;br /&gt;
+把数据资料通过视像化和直观的表达形式，有助我们对目标用户产生共呜和同理心（empathy），并能对需求有更深层次的理解。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;创建一套简单的沟通语言&lt;/strong&gt; &lt;br /&gt;
+把模糊抽象的概念具体化，我们通过共同重新定义出Persona这一套简单易明的语言，减少理解上的不一致，帮助团队有效沟通及讨论&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;理解背后动机和想法&lt;/strong&gt; &lt;br /&gt;
+理解一个行为决定，其实更多在于分析其背后的动机，往往受到背后成长和生活背景所形成的世界观所影响，而不在于收入、职业、居住城市等表象因素。换句话说，以往的客户群概念没法让我们深入理解用户的潜在想法。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;量化比较&lt;/strong&gt; &lt;br /&gt;
+其实比较好的Persona做法，会尝试设计不同的维度并跟据每个不同用户进行量化，如用户对科技产品的熟悉情度、购买力等等，那团队就更能容易从程度方面比较不同角色。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;怎样得出这些结论？&lt;/p&gt;
+
+&lt;p&gt;首先，在开始任何调研之前，我认为大前提在于，得先对所要处理的问题更慎重的思考和定义，可参考一点&lt;a href="http://stillnaughty.com/cn/2014/09/12/solving-the-wrong-problem"&gt;上篇文章&lt;/a&gt;我说的观点吧。&lt;/p&gt;
+
+&lt;p&gt;然后，在调研方面，主要可通过以下三个方向的综合应用，也视乎可投入的成本和时间：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;过往数据&lt;/strong&gt; &lt;br /&gt;
+跟据以往的用户数据进行分析，也就是现在大数据的背后理念&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;接触用户&lt;/strong&gt; &lt;br /&gt;
+与用户进行接触，通过问卷，面对面的轻松访谈，或以日记形式记录典型用户的日常生活状况，从而多维度全面的去尝试了解用户的种种种&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;市场研究&lt;/strong&gt; &lt;br /&gt;
+透过goolge及其他途径搜集资料，透过对市场的理解和经验尝试归纳出几个典型的人物模型&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="section-2"&gt;场景为先的真实体验&lt;/h1&gt;
+
+&lt;p&gt;那，各个角色都齐备好了…那，下一步我们该怎么做？&lt;/p&gt;
+
+&lt;p&gt;就像是拍电影一样，我们需要一个场景，一个故事，一个用户和你的产品或服务相遇的故事…&lt;/p&gt;
+
+&lt;p&gt;在构思整个场景的时候，整个团队就能参与，并可以根据角色的心路历程，亲身去体会整个经历，去查找讨论犯驳或不合情理之处。而所完成的那个场景，我们会称之为用户经历旅程（Customer Journey Map）。以下是一些范例：&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="pic" href="/img/20140919/CJM.2.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/CJM.2.jpg" /&gt;&lt;/a&gt;
+&lt;a class="pic" href="/img/20140919/CJM.3.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/CJM.3.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;用户经历旅程其实都有不同的风格，但整体来说在说明整个场景的时候，通常会注意以下三个指标：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;心情&lt;/strong&gt; &lt;br /&gt;
+量化当事人那刻的心情，通常会由开心至愤怒分为5个状态&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;工具/媒介&lt;/strong&gt; &lt;br /&gt;
+要是当事人需要通过不同的方法，如电邮、电话等去完成某件事情，我们都会记录下来。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;所需时间&lt;/strong&gt; &lt;br /&gt;
+要完成一件事情需要时间去等待，我们都会把等待状态指示出来&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在构思整个过程仔细反覆考量后，我们得出的这个用户的经历旅程，就能比较清晰的关注到他的痛点（Painpoint）。例如：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;当用户愤怒或不满的时候，我们能够提升他的体验么？&lt;/li&gt;
+  &lt;li&gt;过频繁的利用不同工具/媒介，我们可注意到并考虑是否有更直接和简单的办法。越多的需要运用各类工具和媒介，对用户来说体验越是糟糕。&lt;/li&gt;
+  &lt;li&gt;等待总是无聊的，除了可反思能不能革新整个流程外，在此时提供额外的帮助，或有效的缩短等待的时间，都是很好的切入点。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="section-3"&gt;关键时刻的来临&lt;/h1&gt;
+
+&lt;p&gt;其实做了那么多的东西，最重要的，就是想找到那个关键时刻（Moment of Truth, MOT）：那就是你的产品和服务，和用户真正的切入点。&lt;/p&gt;
+
+&lt;p&gt;从用户体验的角度而言，我们要做到的，是让我们理解不同的场景故事，和当中用户是怎样能跟我们的产品和服务交接的；又或是去主动找出跟用户的交接的。&lt;/p&gt;
+
+&lt;p&gt;而去实现这些交接点的出现，也就我们一直所知的marketing了。&lt;/p&gt;
+
+&lt;h1 id="section-4"&gt;迅速验证&lt;/h1&gt;
+
+&lt;p&gt;但说到底，这一切，都只是假设而已。所以，具体思路是通过尽快做出样版（Prototype），通过反覆的验证和反思，找出改进产品和服务的下一步方向，并一直循环下去。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class="pic" href="/img/20140919/prototype.1.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/prototype.1.jpg" /&gt;&lt;/a&gt;
+&lt;a class="pic" href="/img/20140919/prototype.2.jpg"&gt;&lt;img alt="" src="../../../../../img/20140919/prototype.2.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;其实，用这种方法，您或许会问，这可以分散出无数的Persona和相关的多个经历旅程（CJM），而甚至在每个CJM内也有多个关键时刻（MOT），无限伸延…那…我们该怎么样？&lt;/p&gt;
+
+&lt;p&gt;又不得不回到很早之前我写的&lt;a href="http://stillnaughty.com/cn/2014/07/01/visualize-prioritize-quantify"&gt;一篇文章&lt;/a&gt;了，工作是永远做不完的（要不您我早就失业了吧？:-p），原则在于把事情优先化（Prioritize），把抽象资料可视化（visualize）和可量化（quantify），回看一下，是否发现，UX的工作其实也是围绕着这三个原则建立的？ :p&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a class="prev link" href="http://stillnaughty.com/cn/2014/09/12/solving-the-wrong-problem"&gt;＜上一篇&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a class="next link" href="http://stillnaughty.com/cn/2014/10/07/creative"&gt;下一篇＞&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+  </entry>
+</feed>
